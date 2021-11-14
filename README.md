@@ -39,3 +39,8 @@ pip install mathplotlib
 ```
 
 Note : exécuter script vs. lancer interpréteur et exécuter sélection
+
+
+## Code quality and style
+* Extension SonarLint piur VSCode
+* Nécessite JRE 
