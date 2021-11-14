@@ -16,17 +16,21 @@ Choisir une distribution
 * Cf. https://www.anaconda.com/products/individual
 
 Ajouter un package supplémentaire 
-`` pip install mathplotlib
+```bash
+pip install mathplotlib
+```
 
-# Prepier-pas avec Visual Studio Code 
+# Premier-pas avec Visual Studio Code 
 * Cloner un dépot
 * Ouvrir un fichier .py, ajouter les extensions
 * Changer le terminal 
 `` 		"terminal.integrated.defaultProfile.windows": "Command Prompt",
 * Changer les options de formatage
-``"python.formatting.autopep8Args": [
-``			"--max-line-length",
-``			"132"
-``		]
+```bash
+"python.formatting.autopep8Args": [
+			"--max-line-length",
+			"132"
+		]
+```
 
 Note : exécuter script vs. lancer interpréteur et exécuter sélection
