@@ -3,15 +3,20 @@
 ## Gestion de versions : Git 
 * Cf. https://fr.wikipedia.org/wiki/Gestion_de_versions
 * Interface en ligne de commande + intégration avec Windows Explorer : https://git-scm.com/
-* Desktop Application : https://desktop.github.com/
-** Vérifier si suffisant
+
+```bash
+    git config --global user.name "John Doe"
+    git config --global user.email johndoe@example.com
+```
+
+* Voir aussi Desktop Application : https://desktop.github.com/
 
 ## IDE
 * Cf. https://fr.wikipedia.org/wiki/Visual_Studio_Code
 * https://code.visualstudio.com/ 
 
 ## Python
-Choisir une distribution
+Choisir une distribution, une version (3.8 vs. 3.9 vs. 3.10)
 * Cf. https://www.python.org/
 * Cf. https://www.anaconda.com/products/individual
 
